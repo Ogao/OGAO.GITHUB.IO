@@ -1,0 +1,26 @@
+.containerfix {
+  width:100%;
+  position:absolute;
+  margin:0;
+  height:100%;
+}
+
+.logospace{
+  top:25%;
+  position:relative;
+}
+
+.bottomstuck{
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:20px; 
+  text-align:right;
+  margin-bottom:10px;
+}
+
+.comingsoon{
+  margin-top:10%;
+  position:relative;
+  color:#666;
+}
